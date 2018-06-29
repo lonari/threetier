@@ -22,7 +22,7 @@
         description: My Fancy Ex Parrot Subnet Group
         subnets:
           - subnet-074c13cf9b3f393b3
-          - subnet-074c13cf9b3f393b3
+          - subnet-04489bc17f299da9e
       register: dbsubnet
     - debug:
         var: dbsubnet
